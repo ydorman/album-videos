@@ -6,23 +6,56 @@
   "pulse_bpm": 110,
   "counts_per_bar": 15,
   "tempo_hint_bpm": 110,
-  "accents": [1, 3, 8, 12, 15],
+  "accents": [
+    1,
+    3,
+    8,
+    12,
+    15
+  ],
   "sections": [
-    { "name": "Intro", "bars": 2 },
-    { "name": "A", "bars": 4 },
-    { "name": "B", "bars": 4 },
-    { "name": "C", "bars": 4 },
-    { "name": "D", "bars": 4 },
-    { "name": "E", "bars": 4 },
-    { "name": "F", "bars": 4 },
-    { "name": "G", "bars": 4 },
-    { "name": "H", "bars": 4 }
+    {
+      "name": "Intro",
+      "bars": 2
+    },
+    {
+      "name": "A",
+      "bars": 4
+    },
+    {
+      "name": "B",
+      "bars": 4
+    },
+    {
+      "name": "C",
+      "bars": 4
+    },
+    {
+      "name": "D",
+      "bars": 4
+    },
+    {
+      "name": "E",
+      "bars": 4
+    },
+    {
+      "name": "F",
+      "bars": 4
+    },
+    {
+      "name": "G",
+      "bars": 4
+    },
+    {
+      "name": "H",
+      "bars": 4
+    }
   ],
   "snippets": [],
   "grid_override": {
-    "beat_period": 0.5454745986051827,
-    "beat_offset": 0.0534446386637748,
+    "beat_period": 0.5454545454545454,
+    "beat_offset": 0.548,
     "bar_phase": 0,
-    "note": "Bar 1 = music start (0.05 s). Fits the 2 + 8x4 bar structure exactly (music ends 278.2 s). Analysis alone picks bar_phase 9. Accents = percussion pattern within the 15 eighths (bass on 1). To be confirmed by ear."
+    "note": "Exact, from the DAW (Logic, 25 fps): piece starts 0:15:20.36, first kick 0:16:09.07 = 0.548 s into the audio (bar 1, Intro). A 0:32:18.14 (+2 bars), H 4:21:20.36 (+30 bars), end 5:00:00.00. Eighth = 110 bpm exactly. The audio files start at the piece start."
   }
 }
