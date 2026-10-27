@@ -8,3 +8,4 @@ clips/*/audio/
 *.aiff
 *.flac
 *.mp4
+.venv/

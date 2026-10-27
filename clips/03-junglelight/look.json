@@ -29,7 +29,8 @@
     },
     "robe": {
       "skirt_shape": 0.3,
-      "sleeve_fullness": 0.36
+      "sleeve_fullness": 0.36,
+      "skirt_swing": 1
     },
     "downbeat->dip": 0.28,
     "sync_looseness_s": 0.125,

@@ -233,5 +233,50 @@
         -0.9
       ]
     }
-  }
+  },
+  "_partners_doc": "Who is paired with whom from each 'at' (section name, 'C+2', or seconds). A man's sash blends to his partner's sash_color over 'blend' bars; a man in no pair (the lone one) fades back to neutral. Placeholder until the choreography is set: each man is the lone one once.",
+  "partners": [
+    {
+      "at": "A",
+      "blend": 2,
+      "pairs": [
+        [
+          "m1",
+          "w1"
+        ],
+        [
+          "m2",
+          "w2"
+        ]
+      ]
+    },
+    {
+      "at": "C",
+      "blend": 2,
+      "pairs": [
+        [
+          "m2",
+          "w1"
+        ],
+        [
+          "m3",
+          "w2"
+        ]
+      ]
+    },
+    {
+      "at": "E",
+      "blend": 2,
+      "pairs": [
+        [
+          "m3",
+          "w1"
+        ],
+        [
+          "m1",
+          "w2"
+        ]
+      ]
+    }
+  ]
 }

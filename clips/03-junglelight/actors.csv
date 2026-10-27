@@ -1,6 +1,6 @@
-actor,spot,gender,age,weight,muscle,height_m,african,asian,caucasian,hair,hair_tint,eyebrows,skin,costume,costume_color,lean_deg,reach,arm_offset_deg,sync_lag
-1,m1,male,45,51,54,1.83,40,10,50,short02,#D8D0C8,eyebrow007,#AD8063,robe,#E4E0D8,-1,0.97,2,0.15
-2,w1,female,38,50,50,1.62,5,10,85,braid01,#FFFFFF,eyebrow003,#DBB89E,robe,#ECE3D0,1,1.0,4,0.88
-3,m2,male,40,48,52,1.77,90,0,10,afro01,#FFFFFF,eyebrow009,#734D38,robe,#E6E4DF,-2,1.03,-2,0.4
-4,w2,female,35,42,48,1.65,5,75,20,ponytail01,#FFFFFF,eyebrow005,#C29973,robe,#E3DED3,2,1.01,-4,0.0
-5,m3,male,41,52,50,1.79,5,5,90,short04,#FFFFFF,eyebrow010,#E0BDA3,robe,#EDE6DA,-1,0.99,3,0.73
+actor,spot,gender,age,weight,muscle,height_m,african,asian,caucasian,hair,hair_tint,eyebrows,skin,costume,costume_color,lean_deg,reach,arm_offset_deg,sync_lag,sash_color
+1,m1,male,45,51,54,1.83,40,10,50,short02,#D8D0C8,eyebrow007,#AD8063,trousers,#E4E0D8,-1,0.97,2,0.15,
+2,w1,female,38,50,50,1.62,5,10,85,braid01,#FFFFFF,eyebrow003,#DBB89E,dress,#ECE3D0,1,1.0,4,0.88,#C98A3E
+3,m2,male,40,48,52,1.77,90,0,10,afro01,#FFFFFF,eyebrow009,#734D38,trousers,#E6E4DF,-2,1.03,-2,0.4,
+4,w2,female,35,42,48,1.65,5,75,20,ponytail01,#FFFFFF,eyebrow005,#C29973,dress,#E3DED3,2,1.01,-4,0.0,#8C5BA0
+5,m3,male,41,52,50,1.79,5,5,90,short04,#FFFFFF,eyebrow010,#E0BDA3,trousers,#EDE6DA,-1,0.99,3,0.73,
