@@ -35,13 +35,13 @@
     "sync_looseness_s": 0.125,
     "downbeat_shift": 0,
     "visual_offset_ms": 0,
-    "jungle": {
+    "scene": {
       "daylight": 1,
       "shafts": 1,
       "sweep": 1,
-      "leaf_glow": 1,
+      "foliage_glow": 1,
       "mist": 1,
-      "fireflies": 1,
+      "particles": 1,
       "warmth": 0
     }
   }
