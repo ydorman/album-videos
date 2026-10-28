@@ -278,5 +278,620 @@
         ]
       ]
     }
-  ]
+  ],
+  "_timeline_doc": "Per actor, from each 'at': 'to' [x,z] metres (travel there over 'bars', default 2; the first entry places the actor), 'face' degrees (0 = audience) | actor spot | [x,z] point | 'path', 'turn_bars' (default 1). Feet step on the accents while moving or turning. Clearing centre (0,-0.6), where E's single shaft falls. Staged from the story map in PROJECT.md.",
+  "timeline": {
+    "m1": [
+      {
+        "at": "Intro",
+        "to": [
+          -2.3,
+          0.6
+        ],
+        "face": 40
+      },
+      {
+        "at": "A",
+        "to": [
+          -2.0,
+          0.1
+        ],
+        "bars": 3,
+        "face": -35,
+        "turn_bars": 2
+      },
+      {
+        "at": "A+3",
+        "face": 110,
+        "turn_bars": 1
+      },
+      {
+        "at": "B",
+        "to": [
+          -1.1,
+          -0.85
+        ],
+        "bars": 3,
+        "face": "w1",
+        "turn_bars": 1
+      },
+      {
+        "at": "C+2",
+        "to": [
+          -1.55,
+          -1.3
+        ],
+        "bars": 2,
+        "face": "w1"
+      },
+      {
+        "at": "D",
+        "to": [
+          -2.6,
+          0.3
+        ],
+        "bars": 2,
+        "face": "path",
+        "turn_bars": 0.5
+      },
+      {
+        "at": "D+2",
+        "face": "w1",
+        "turn_bars": 1
+      },
+      {
+        "at": "E",
+        "to": [
+          -2.4,
+          -1.6
+        ],
+        "bars": 2,
+        "face": "m2",
+        "turn_bars": 1
+      },
+      {
+        "at": "F",
+        "to": [
+          -1.0,
+          -0.15
+        ],
+        "bars": 2,
+        "face": "w2"
+      },
+      {
+        "at": "F+2",
+        "to": [
+          -1.45,
+          -0.6
+        ],
+        "bars": 2,
+        "face": "w2"
+      },
+      {
+        "at": "G",
+        "to": [
+          -1.0,
+          0.78
+        ],
+        "bars": 3,
+        "face": [
+          0,
+          -0.6
+        ],
+        "turn_bars": 2
+      },
+      {
+        "at": "H",
+        "to": [
+          -0.65,
+          0.29
+        ],
+        "bars": 2,
+        "face": [
+          0,
+          -0.6
+        ]
+      }
+    ],
+    "m2": [
+      {
+        "at": "Intro",
+        "to": [
+          0.5,
+          1.2
+        ],
+        "face": 160
+      },
+      {
+        "at": "A",
+        "to": [
+          0.3,
+          0.7
+        ],
+        "bars": 3,
+        "face": -140,
+        "turn_bars": 2
+      },
+      {
+        "at": "A+3",
+        "face": -40,
+        "turn_bars": 1
+      },
+      {
+        "at": "B",
+        "to": [
+          1.0,
+          -0.75
+        ],
+        "bars": 3,
+        "face": "w2",
+        "turn_bars": 1
+      },
+      {
+        "at": "C+2",
+        "to": [
+          1.45,
+          -1.2
+        ],
+        "bars": 2,
+        "face": "w2"
+      },
+      {
+        "at": "D",
+        "to": [
+          0.6,
+          -0.3
+        ],
+        "bars": 1,
+        "face": "path",
+        "turn_bars": 0.5
+      },
+      {
+        "at": "D+1",
+        "to": [
+          -0.4,
+          -0.75
+        ],
+        "bars": 1,
+        "face": "w1",
+        "turn_bars": 1
+      },
+      {
+        "at": "D+2",
+        "to": [
+          0.05,
+          -1.2
+        ],
+        "bars": 2,
+        "face": "w1"
+      },
+      {
+        "at": "E",
+        "to": [
+          0,
+          -0.55
+        ],
+        "bars": 1.5,
+        "face": 0,
+        "turn_bars": 1
+      },
+      {
+        "at": "E+2",
+        "face": 120,
+        "turn_bars": 2
+      },
+      {
+        "at": "F",
+        "to": [
+          0,
+          -2.5
+        ],
+        "bars": 3,
+        "face": "path",
+        "turn_bars": 0.5
+      },
+      {
+        "at": "F+3",
+        "face": 0,
+        "turn_bars": 1
+      },
+      {
+        "at": "G",
+        "to": [
+          0.0,
+          -2.3
+        ],
+        "bars": 3,
+        "face": [
+          0,
+          -0.6
+        ],
+        "turn_bars": 2
+      },
+      {
+        "at": "H",
+        "to": [
+          0.0,
+          -1.7
+        ],
+        "bars": 2,
+        "face": [
+          0,
+          -0.6
+        ]
+      }
+    ],
+    "m3": [
+      {
+        "at": "Intro",
+        "to": [
+          2.4,
+          0.0
+        ],
+        "face": -60
+      },
+      {
+        "at": "A",
+        "to": [
+          2.2,
+          0.5
+        ],
+        "bars": 3,
+        "face": 60,
+        "turn_bars": 2
+      },
+      {
+        "at": "A+3",
+        "face": -90,
+        "turn_bars": 1
+      },
+      {
+        "at": "B",
+        "to": [
+          1.9,
+          -0.3
+        ],
+        "bars": 2,
+        "face": "w2",
+        "turn_bars": 1
+      },
+      {
+        "at": "B+2",
+        "to": [
+          2.4,
+          0.4
+        ],
+        "bars": 2,
+        "face": "w2"
+      },
+      {
+        "at": "C+2",
+        "to": [
+          1.8,
+          0.8
+        ],
+        "bars": 1,
+        "face": 0,
+        "turn_bars": 1
+      },
+      {
+        "at": "C+3",
+        "face": -120,
+        "turn_bars": 1
+      },
+      {
+        "at": "D",
+        "to": [
+          1.3,
+          -0.45
+        ],
+        "bars": 2,
+        "face": "w2",
+        "turn_bars": 1
+      },
+      {
+        "at": "D+2",
+        "to": [
+          1.75,
+          -0.9
+        ],
+        "bars": 2,
+        "face": "w2"
+      },
+      {
+        "at": "E",
+        "face": "m2",
+        "turn_bars": 1
+      },
+      {
+        "at": "E+2",
+        "to": [
+          1.3,
+          -2.6
+        ],
+        "bars": 1.5
+      },
+      {
+        "at": "F",
+        "to": [
+          1.0,
+          -1.05
+        ],
+        "bars": 2,
+        "face": "w1"
+      },
+      {
+        "at": "F+2",
+        "to": [
+          0.55,
+          -0.6
+        ],
+        "bars": 2,
+        "face": "w1"
+      },
+      {
+        "at": "G",
+        "to": [
+          1.0,
+          0.78
+        ],
+        "bars": 3,
+        "face": [
+          0,
+          -0.6
+        ],
+        "turn_bars": 2
+      },
+      {
+        "at": "H",
+        "to": [
+          0.65,
+          0.29
+        ],
+        "bars": 2,
+        "face": [
+          0,
+          -0.6
+        ]
+      }
+    ],
+    "w1": [
+      {
+        "at": "Intro",
+        "to": [
+          -1.0,
+          -2.0
+        ],
+        "face": 10
+      },
+      {
+        "at": "A",
+        "to": [
+          -0.7,
+          -1.8
+        ],
+        "bars": 3,
+        "face": -60,
+        "turn_bars": 2
+      },
+      {
+        "at": "A+3",
+        "face": 30,
+        "turn_bars": 1
+      },
+      {
+        "at": "B+1",
+        "to": [
+          -1.1,
+          -1.75
+        ],
+        "bars": 2,
+        "face": "m1",
+        "turn_bars": 2
+      },
+      {
+        "at": "C+2",
+        "to": [
+          -0.65,
+          -1.3
+        ],
+        "bars": 2,
+        "face": "m1"
+      },
+      {
+        "at": "D",
+        "to": [
+          -0.4,
+          -1.65
+        ],
+        "bars": 2,
+        "face": "m2",
+        "turn_bars": 1
+      },
+      {
+        "at": "D+2",
+        "to": [
+          -0.85,
+          -1.2
+        ],
+        "bars": 2,
+        "face": "m2"
+      },
+      {
+        "at": "E",
+        "face": "m2",
+        "turn_bars": 1
+      },
+      {
+        "at": "E+0.5",
+        "to": [
+          2.1,
+          -2.0
+        ],
+        "bars": 1.5
+      },
+      {
+        "at": "F",
+        "to": [
+          1.0,
+          -0.15
+        ],
+        "bars": 2,
+        "face": "m3"
+      },
+      {
+        "at": "F+2",
+        "to": [
+          1.45,
+          -0.6
+        ],
+        "bars": 2,
+        "face": "m3"
+      },
+      {
+        "at": "G",
+        "to": [
+          1.62,
+          -1.13
+        ],
+        "bars": 3,
+        "face": [
+          0,
+          -0.6
+        ],
+        "turn_bars": 2
+      },
+      {
+        "at": "H",
+        "to": [
+          1.05,
+          -0.94
+        ],
+        "bars": 2,
+        "face": [
+          0,
+          -0.6
+        ]
+      }
+    ],
+    "w2": [
+      {
+        "at": "Intro",
+        "to": [
+          1.3,
+          -1.9
+        ],
+        "face": -15
+      },
+      {
+        "at": "A",
+        "to": [
+          1.0,
+          -1.7
+        ],
+        "bars": 3,
+        "face": 70,
+        "turn_bars": 2
+      },
+      {
+        "at": "A+3",
+        "face": -20,
+        "turn_bars": 1
+      },
+      {
+        "at": "B+1",
+        "to": [
+          1.0,
+          -1.65
+        ],
+        "bars": 2,
+        "face": "m2",
+        "turn_bars": 2
+      },
+      {
+        "at": "C+2",
+        "to": [
+          0.55,
+          -1.2
+        ],
+        "bars": 2,
+        "face": "m2"
+      },
+      {
+        "at": "D",
+        "to": [
+          1.3,
+          -1.35
+        ],
+        "bars": 2,
+        "face": "m3",
+        "turn_bars": 1
+      },
+      {
+        "at": "D+2",
+        "to": [
+          0.85,
+          -0.9
+        ],
+        "bars": 2,
+        "face": "m3"
+      },
+      {
+        "at": "E",
+        "face": "m2",
+        "turn_bars": 1
+      },
+      {
+        "at": "E+1.5",
+        "to": [
+          -1.4,
+          -2.3
+        ],
+        "bars": 1.5
+      },
+      {
+        "at": "F",
+        "to": [
+          -1.0,
+          -1.05
+        ],
+        "bars": 2,
+        "face": "m1"
+      },
+      {
+        "at": "F+2",
+        "to": [
+          -0.55,
+          -0.6
+        ],
+        "bars": 2,
+        "face": "m1"
+      },
+      {
+        "at": "G",
+        "to": [
+          -1.62,
+          -1.13
+        ],
+        "bars": 3,
+        "face": [
+          0,
+          -0.6
+        ],
+        "turn_bars": 2
+      },
+      {
+        "at": "H",
+        "to": [
+          -1.05,
+          -0.94
+        ],
+        "bars": 2,
+        "face": [
+          0,
+          -0.6
+        ]
+      }
+    ]
+  }
 }

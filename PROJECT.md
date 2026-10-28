@@ -29,10 +29,10 @@ Context for every clip session in this project. Keep it short and current.
   the ankle); women in off-white slip dresses with thin straps, ending above the knee. Garments must read as one piece
   (no tight-hips/puffed-legs look, no ridge at the hips). Skirt swing on (look.json `robe.skirt_swing`).
   Colour as storytelling (agreed in an earlier session): each woman has a colour, shown as a subtle tint on her sash;
-  her current partner's sash gradually takes on that colour, while the lone man stays untinted. Colours for now:
-  w1 amber #C98A3E, w2 violet #8C5BA0 (actors.csv sash_color). The cloth is coloured too, not just the sash: each
-  woman's dress is her colour mixed toward warm white (apricot, lilac); the men's trousers are light sand browns, a
-  little different per man, never bright white. The pairing in choreography.json
+  her current partner's sash gradually takes on that colour, while the lone man stays untinted. The cloth is coloured
+  too, not just the sash. Current colours are tuned by Yonatan in the preview and live in look.json "colors"
+  (overriding actors.csv): women in the violet family (w1 lavender dress, purple sash #7e40c9; w2 pink-lilac dress,
+  violet sash #8C5BA0), men in browns of different depth (never bright white). The pairing in choreography.json
   `partners` is a placeholder (each man lone once: m3 in A-B, m1 in C-D, m2 in E-H) until the choreography is set.
   Heads must not look bald from above (top camera moves): the toolkit's scalp cap handles it; check top shots.
   Choreography (agreed 2026-10-28): keyed modern-ballet poses and moves (not mocap), placed on the 15/8 accents

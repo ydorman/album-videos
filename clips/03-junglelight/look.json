@@ -2,6 +2,16 @@
   "track": "Junglelight",
   "meter": "15/8",
   "pulse_bpm": 110,
+  "actors": 5,
+  "positions": [
+    "arms out",
+    "forearms raised",
+    "arms up",
+    "diagonal",
+    "mirrored",
+    "hands on chest",
+    "arms low"
+  ],
   "mapping": {
     "loudness->light": {
       "base": 0.7,
@@ -30,12 +40,32 @@
     "robe": {
       "skirt_shape": 0.3,
       "sleeve_fullness": 0.36,
-      "skirt_swing": 1
+      "skirt_swing": 1,
+      "sash_tint": 0.6
     },
     "downbeat->dip": 0.28,
     "sync_looseness_s": 0.125,
     "downbeat_shift": 0,
     "visual_offset_ms": 0,
+    "colors": {
+      "m1": {
+        "cloth": "#927a5d"
+      },
+      "w1": {
+        "cloth": "#ab8cca",
+        "sash": "#7e40c9"
+      },
+      "m2": {
+        "cloth": "#614e38"
+      },
+      "w2": {
+        "cloth": "#caa0c3",
+        "sash": "#8C5BA0"
+      },
+      "m3": {
+        "cloth": "#917046"
+      }
+    },
     "scene": {
       "daylight": 1,
       "shafts": 1,
