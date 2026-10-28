@@ -234,10 +234,10 @@
       ]
     }
   },
-  "_partners_doc": "Who is paired with whom from each 'at' (section name, 'C+2', or seconds). A man's sash blends to his partner's sash_color over 'blend' bars; a man in no pair (the lone one) fades back to neutral. Placeholder until the choreography is set: each man is the lone one once.",
+  "_partners_doc": "Who is paired with whom from each 'at' (section name, 'C+2', or seconds). A man's sash blends to his partner's sash_color over 'blend' bars; a man in no pair (the lone one) fades back to neutral. Follows the story map in PROJECT.md: m3 left out in B-C, m1 in D, m2 in E (solo) and after.",
   "partners": [
     {
-      "at": "A",
+      "at": "B+2",
       "blend": 2,
       "pairs": [
         [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "at": "C",
+      "at": "D",
       "blend": 2,
       "pairs": [
         [
