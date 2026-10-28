@@ -279,7 +279,7 @@
       ]
     }
   ],
-  "_timeline_doc": "Per actor, from each 'at': 'to' [x,z] metres (travel there over 'bars', default 2; the first entry places the actor), 'face' degrees (0 = audience) | actor spot | [x,z] point | 'path', 'turn_bars' (default 1). Feet step on the accents while moving or turning. Clearing centre (0,-0.6), where E's single shaft falls. Staged from the story map in PROJECT.md.",
+  "_timeline_doc": "Per actor, from each 'at': 'to' [x,z] metres (travel there over 'bars', default 2; the first entry places the actor), 'face' degrees (0 = audience) | actor spot | [x,z] point | 'path', 'turn_bars' (default 1). Feet step on the accents while moving or turning. Clearing centre (0,-0.6), where E's single shaft falls. Staged from the story map in PROJECT.md. 'phrase' starts a phrase (see phrases), blending from the previous over 'phrase_blend' bars (0.5).",
   "timeline": {
     "m1": [
       {
@@ -288,7 +288,8 @@
           -2.3,
           0.6
         ],
-        "face": 40
+        "face": 40,
+        "phrase": "dormant"
       },
       {
         "at": "A",
@@ -298,12 +299,14 @@
         ],
         "bars": 3,
         "face": -35,
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "awaken"
       },
       {
         "at": "A+3",
         "face": 110,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "search"
       },
       {
         "at": "B",
@@ -313,7 +316,8 @@
         ],
         "bars": 3,
         "face": "w1",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "approach"
       },
       {
         "at": "C+2",
@@ -332,7 +336,8 @@
         ],
         "bars": 2,
         "face": "path",
-        "turn_bars": 0.5
+        "turn_bars": 0.5,
+        "phrase": "alone"
       },
       {
         "at": "D+2",
@@ -347,7 +352,8 @@
         ],
         "bars": 2,
         "face": "m2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "still_watch"
       },
       {
         "at": "F",
@@ -356,7 +362,8 @@
           -0.15
         ],
         "bars": 2,
-        "face": "w2"
+        "face": "w2",
+        "phrase": "duet3_man"
       },
       {
         "at": "F+2",
@@ -378,7 +385,8 @@
           0,
           -0.6
         ],
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "gather"
       },
       {
         "at": "H",
@@ -390,7 +398,12 @@
         "face": [
           0,
           -0.6
-        ]
+        ],
+        "phrase": "circle"
+      },
+      {
+        "at": "C",
+        "phrase": "duet_man"
       }
     ],
     "m2": [
@@ -400,7 +413,8 @@
           0.5,
           1.2
         ],
-        "face": 160
+        "face": 160,
+        "phrase": "dormant"
       },
       {
         "at": "A",
@@ -410,12 +424,14 @@
         ],
         "bars": 3,
         "face": -140,
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "awaken"
       },
       {
         "at": "A+3",
         "face": -40,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "search"
       },
       {
         "at": "B",
@@ -425,7 +441,8 @@
         ],
         "bars": 3,
         "face": "w2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "approach"
       },
       {
         "at": "C+2",
@@ -444,7 +461,8 @@
         ],
         "bars": 1,
         "face": "path",
-        "turn_bars": 0.5
+        "turn_bars": 0.5,
+        "phrase": "duet2_man"
       },
       {
         "at": "D+1",
@@ -473,12 +491,8 @@
         ],
         "bars": 1.5,
         "face": 0,
-        "turn_bars": 1
-      },
-      {
-        "at": "E+2",
-        "face": 120,
-        "turn_bars": 2
+        "turn_bars": 1,
+        "phrase": "solo_m2"
       },
       {
         "at": "F",
@@ -488,7 +502,8 @@
         ],
         "bars": 3,
         "face": "path",
-        "turn_bars": 0.5
+        "turn_bars": 0.5,
+        "phrase": "retreat"
       },
       {
         "at": "F+3",
@@ -506,7 +521,8 @@
           0,
           -0.6
         ],
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "gather"
       },
       {
         "at": "H",
@@ -518,7 +534,12 @@
         "face": [
           0,
           -0.6
-        ]
+        ],
+        "phrase": "circle"
+      },
+      {
+        "at": "C",
+        "phrase": "duet_man"
       }
     ],
     "m3": [
@@ -528,7 +549,8 @@
           2.4,
           0.0
         ],
-        "face": -60
+        "face": -60,
+        "phrase": "dormant"
       },
       {
         "at": "A",
@@ -538,12 +560,14 @@
         ],
         "bars": 3,
         "face": 60,
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "awaken"
       },
       {
         "at": "A+3",
         "face": -90,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "search"
       },
       {
         "at": "B",
@@ -553,7 +577,8 @@
         ],
         "bars": 2,
         "face": "w2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "approach"
       },
       {
         "at": "B+2",
@@ -562,7 +587,8 @@
           0.4
         ],
         "bars": 2,
-        "face": "w2"
+        "face": "w2",
+        "phrase": "alone"
       },
       {
         "at": "C+2",
@@ -572,7 +598,8 @@
         ],
         "bars": 1,
         "face": 0,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "solo_m3"
       },
       {
         "at": "C+3",
@@ -587,7 +614,8 @@
         ],
         "bars": 2,
         "face": "w2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "duet2_man"
       },
       {
         "at": "D+2",
@@ -601,7 +629,8 @@
       {
         "at": "E",
         "face": "m2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "still_watch"
       },
       {
         "at": "E+2",
@@ -618,7 +647,8 @@
           -1.05
         ],
         "bars": 2,
-        "face": "w1"
+        "face": "w1",
+        "phrase": "duet3_man"
       },
       {
         "at": "F+2",
@@ -640,7 +670,8 @@
           0,
           -0.6
         ],
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "gather"
       },
       {
         "at": "H",
@@ -652,7 +683,12 @@
         "face": [
           0,
           -0.6
-        ]
+        ],
+        "phrase": "circle"
+      },
+      {
+        "at": "C",
+        "phrase": "watch"
       }
     ],
     "w1": [
@@ -662,7 +698,8 @@
           -1.0,
           -2.0
         ],
-        "face": 10
+        "face": 10,
+        "phrase": "dormant"
       },
       {
         "at": "A",
@@ -672,12 +709,14 @@
         ],
         "bars": 3,
         "face": -60,
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "awaken"
       },
       {
         "at": "A+3",
         "face": 30,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "search"
       },
       {
         "at": "B+1",
@@ -706,7 +745,8 @@
         ],
         "bars": 2,
         "face": "m2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "duet2_woman"
       },
       {
         "at": "D+2",
@@ -720,7 +760,8 @@
       {
         "at": "E",
         "face": "m2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "still_watch"
       },
       {
         "at": "E+0.5",
@@ -737,7 +778,8 @@
           -0.15
         ],
         "bars": 2,
-        "face": "m3"
+        "face": "m3",
+        "phrase": "duet3_woman"
       },
       {
         "at": "F+2",
@@ -759,7 +801,8 @@
           0,
           -0.6
         ],
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "gather"
       },
       {
         "at": "H",
@@ -771,7 +814,16 @@
         "face": [
           0,
           -0.6
-        ]
+        ],
+        "phrase": "circle"
+      },
+      {
+        "at": "B",
+        "phrase": "await"
+      },
+      {
+        "at": "C",
+        "phrase": "duet_woman"
       }
     ],
     "w2": [
@@ -781,7 +833,8 @@
           1.3,
           -1.9
         ],
-        "face": -15
+        "face": -15,
+        "phrase": "dormant"
       },
       {
         "at": "A",
@@ -791,12 +844,14 @@
         ],
         "bars": 3,
         "face": 70,
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "awaken"
       },
       {
         "at": "A+3",
         "face": -20,
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "search"
       },
       {
         "at": "B+1",
@@ -825,7 +880,8 @@
         ],
         "bars": 2,
         "face": "m3",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "duet2_woman"
       },
       {
         "at": "D+2",
@@ -839,7 +895,8 @@
       {
         "at": "E",
         "face": "m2",
-        "turn_bars": 1
+        "turn_bars": 1,
+        "phrase": "still_watch"
       },
       {
         "at": "E+1.5",
@@ -856,7 +913,8 @@
           -1.05
         ],
         "bars": 2,
-        "face": "m1"
+        "face": "m1",
+        "phrase": "duet3_woman"
       },
       {
         "at": "F+2",
@@ -878,7 +936,8 @@
           0,
           -0.6
         ],
-        "turn_bars": 2
+        "turn_bars": 2,
+        "phrase": "gather"
       },
       {
         "at": "H",
@@ -890,8 +949,428 @@
         "face": [
           0,
           -0.6
-        ]
+        ],
+        "phrase": "circle"
+      },
+      {
+        "at": "B",
+        "phrase": "await"
+      },
+      {
+        "at": "C",
+        "phrase": "duet_woman"
       }
     ]
+  },
+  "_poses_doc": "Clip poses, added to the toolkit's base library (engine/vocab.js); same format. A name ending _L mirrors the _R pose.",
+  "poses": {
+    "curl_soft": {
+      "base": "curl",
+      "plie": 0.25,
+      "torso": [
+        20,
+        0,
+        0
+      ],
+      "head": [
+        18,
+        0
+      ]
+    },
+    "watch": {
+      "base": "prep",
+      "head": [
+        -4,
+        8
+      ]
+    },
+    "yearn_R": {
+      "left": [
+        20,
+        30,
+        20,
+        0,
+        0
+      ],
+      "right": [
+        40,
+        100,
+        4,
+        0,
+        50
+      ],
+      "head": [
+        -10,
+        -4
+      ],
+      "torso": [
+        12,
+        0,
+        -10
+      ],
+      "plie": 0.2
+    }
+  },
+  "_phrases_doc": "Phrases: {bars, keys:[{at: count (1-15 in bar 1, 16-30 in bar 2), pose}]}; each pose arrives on its count, looping. Started by a timeline entry's 'phrase'.",
+  "phrases": {
+    "dormant": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "curl"
+        },
+        {
+          "at": 8,
+          "pose": "curl_soft"
+        }
+      ]
+    },
+    "awaken": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "curl"
+        },
+        {
+          "at": 8,
+          "pose": "prep"
+        },
+        {
+          "at": 16,
+          "pose": "open_heart"
+        },
+        {
+          "at": 23,
+          "pose": "releve"
+        }
+      ]
+    },
+    "search": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "second"
+        },
+        {
+          "at": 8,
+          "pose": "reach_R"
+        }
+      ]
+    },
+    "approach": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "first"
+        },
+        {
+          "at": 8,
+          "pose": "reach_R"
+        }
+      ]
+    },
+    "await": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "side_bend_R"
+        },
+        {
+          "at": 8,
+          "pose": "fifth"
+        },
+        {
+          "at": 16,
+          "pose": "side_bend_L"
+        },
+        {
+          "at": 23,
+          "pose": "prep"
+        }
+      ]
+    },
+    "duet_man": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "second"
+        },
+        {
+          "at": 8,
+          "pose": "reach_R"
+        },
+        {
+          "at": 16,
+          "pose": "lunge_R"
+        },
+        {
+          "at": 23,
+          "pose": "open_heart"
+        }
+      ]
+    },
+    "duet_woman": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "first"
+        },
+        {
+          "at": 8,
+          "pose": "developpe_R"
+        },
+        {
+          "at": 16,
+          "pose": "arabesque_L"
+        },
+        {
+          "at": 23,
+          "pose": "releve"
+        }
+      ]
+    },
+    "duet2_man": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "open_heart"
+        },
+        {
+          "at": 8,
+          "pose": "reach_L"
+        },
+        {
+          "at": 16,
+          "pose": "demi_plie"
+        },
+        {
+          "at": 23,
+          "pose": "fifth"
+        }
+      ]
+    },
+    "duet2_woman": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "cambre"
+        },
+        {
+          "at": 8,
+          "pose": "attitude_L"
+        },
+        {
+          "at": 16,
+          "pose": "port_fwd"
+        },
+        {
+          "at": 23,
+          "pose": "releve"
+        }
+      ]
+    },
+    "watch": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "watch"
+        },
+        {
+          "at": 8,
+          "pose": "prep"
+        }
+      ]
+    },
+    "solo_m3": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "arabesque_R"
+        },
+        {
+          "at": 8,
+          "pose": "attitude_R"
+        },
+        {
+          "at": 16,
+          "pose": "side_bend_L"
+        },
+        {
+          "at": 23,
+          "pose": "pirouette_R"
+        }
+      ]
+    },
+    "alone": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "curl"
+        },
+        {
+          "at": 8,
+          "pose": "port_fwd"
+        },
+        {
+          "at": 16,
+          "pose": "yearn_R"
+        },
+        {
+          "at": 23,
+          "pose": "prep"
+        }
+      ]
+    },
+    "still_watch": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "prep"
+        },
+        {
+          "at": 8,
+          "pose": "watch"
+        }
+      ]
+    },
+    "solo_m2": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "open_heart"
+        },
+        {
+          "at": 8,
+          "pose": "developpe_R"
+        },
+        {
+          "at": 12,
+          "pose": "second"
+        },
+        {
+          "at": 16,
+          "pose": "arabesque_L"
+        },
+        {
+          "at": 23,
+          "pose": "pirouette_R"
+        },
+        {
+          "at": 27,
+          "pose": "cambre"
+        }
+      ]
+    },
+    "duet3_man": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "second"
+        },
+        {
+          "at": 8,
+          "pose": "reach_R"
+        },
+        {
+          "at": 16,
+          "pose": "demi_plie"
+        },
+        {
+          "at": 23,
+          "pose": "fifth"
+        }
+      ]
+    },
+    "duet3_woman": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "developpe_L"
+        },
+        {
+          "at": 8,
+          "pose": "pirouette_R"
+        },
+        {
+          "at": 16,
+          "pose": "arabesque_R"
+        },
+        {
+          "at": 23,
+          "pose": "open_heart"
+        }
+      ]
+    },
+    "retreat": {
+      "bars": 1,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "prep"
+        },
+        {
+          "at": 8,
+          "pose": "port_fwd"
+        }
+      ]
+    },
+    "gather": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "second"
+        },
+        {
+          "at": 8,
+          "pose": "reach_R"
+        },
+        {
+          "at": 16,
+          "pose": "second"
+        },
+        {
+          "at": 23,
+          "pose": "reach_L"
+        }
+      ]
+    },
+    "circle": {
+      "bars": 2,
+      "keys": [
+        {
+          "at": 1,
+          "pose": "second"
+        },
+        {
+          "at": 8,
+          "pose": "fifth"
+        },
+        {
+          "at": 16,
+          "pose": "releve"
+        },
+        {
+          "at": 23,
+          "pose": "open_heart"
+        }
+      ]
+    }
   }
 }

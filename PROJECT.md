@@ -5,7 +5,7 @@ Context for every clip session in this project. Keep it short and current.
 ## Tracks
 | # | Title | Clip folder | Status |
 |---|---|---|---|
-| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras done; costumes first pass (trousers, dresses); choreography next |
+| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging + phrases first pass, duets hand-in-hand next |
 | 05 | Mr G's Dance at Seven | clips/05-mr-gs-dance-at-seven | final (reference for look and quality) |
 | .. | (8 more tracks to add) | | |
 
