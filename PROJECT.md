@@ -35,11 +35,18 @@ Context for every clip session in this project. Keep it short and current.
   violet sash #8C5BA0), men in browns of different depth (never bright white). The pairing in choreography.json
   `partners` is a placeholder (each man lone once: m3 in B-C, m1 in D-E, m2 in F-G) until the choreography is set.
   Heads must not look bald from above (top camera moves): the toolkit's scalp cap handles it; check top shots.
-  Choreography (agreed 2026-10-28): keyed modern-ballet poses and moves (not mocap), placed on the 15/8 accents
-  (counts 1, 3, 8, 12, 15); slow and lyrical throughout (long sustained lines); duets hand-in-hand (held hands,
-  supported turns, turn under the arm), no lifts. Story map: Intro still, scattered, emerging from darkness;
-  A awakening, each alone; B the men approach, m3 left out; C duets m1-w1, m2-w2, m3 watches then a short solo;
-  D partners swap m2-w1, m3-w2, m1 pushed out; E the lone man's solo in the single cool shaft (m1, the one pushed
-  out in D; the D couples keep to the shade and watch); F last pairing m3-w1, m1-w2, the most fluid duets, m2 now alone; G everyone gathers, partners let go; H the warm
-  circle of all five, then the bow as the light fades. The partners timeline follows this map.
+  Choreography (agreed 2026-10-28; story from Yonatan's timeline, 2026-10-29): keyed modern-ballet poses and moves (not
+  mocap), placed on the 15/8 accents (counts 1, 3, 8, 12, 15); slow and lyrical throughout; duets hand-in-hand, no lifts.
+  Story (edit here, then the timeline in choreography.json follows):
+  Intro - the 3 men lie face down on the ground and wake to the sound of the drum (heads lift).
+  A - from that sleepy position they rise with full torsos: all fours, child's pose, unrolling up to kneeling with the
+      chest open, up on the knees, one knee, standing.
+  B - the men show off their dancing, masculine: wide deep stances, driving lunges, turns (women still off stage).
+  C - the women enter from the forest, singing; the men try to draw their attention (m1 courts w1, m2 and m3 w2).
+  D - two men capture partners (m2-w1, m3-w2); m1 is left alone.
+  E - only m1, the one left alone, dances a solo in the single cool shaft; the couples walk out into the forest.
+  F - all five are back; w2 leaves m3 and is drawn to m1 (m2-w1, m1-w2); m3 is the new lone wolf.
+  G - m3 comes round behind and replaces m2 with w1 (m3-w1, m1-w2); m2 is the lone wolf now.
+  H - all dance in a ring and swap partners: the women move round the ring from man to man each bar
+      (m1-w2, m3-w1 / m3-w2, m2-w1 / m2-w2, m1-w1), then the bow as the light fades.
 - The intro fades in from darkness; the ending settles into a still bow while the light fades.
