@@ -5,7 +5,7 @@ Context for every clip session in this project. Keep it short and current.
 ## Tracks
 | # | Title | Clip folder | Status |
 |---|---|---|---|
-| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging + phrases first pass, duets hand-in-hand next |
+| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases, physics and hand-in-hand holds done; refinements next |
 | 05 | Mr G's Dance at Seven | clips/05-mr-gs-dance-at-seven | final (reference for look and quality) |
 | .. | (8 more tracks to add) | | |
 
@@ -47,6 +47,8 @@ Context for every clip session in this project. Keep it short and current.
   E - only m1, the one left alone, dances a solo in the single cool shaft; the couples walk out into the forest.
   F - all five are back; w2 leaves m3 and is drawn to m1 (m2-w1, m1-w2); m3 is the new lone wolf.
   G - m3 comes round behind and replaces m2 with w1 (m3-w1, m1-w2); m2 is the lone wolf now.
+  Holds (hand in hand): D take hands, she turns under his arm, then both hands; the couples walk out (E) and back in
+      (F) hand in hand; w2 lets go of m3; turns under the arm in F and G; each new pairing takes hands in H.
   H - all dance in a ring and swap partners: the women move round the ring from man to man each bar
       (m1-w2, m3-w1 / m3-w2, m2-w1 / m2-w2, m1-w1), then the bow as the light fades.
 - The intro fades in from darkness; the ending settles into a still bow while the light fades.
