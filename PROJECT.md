@@ -5,7 +5,7 @@ Context for every clip session in this project. Keep it short and current.
 ## Tracks
 | # | Title | Clip folder | Status |
 |---|---|---|---|
-| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases, physics and hand-in-hand holds done; refinements next |
+| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases and physics done; partner work restaged without contact (2026-10-31); refinements next |
 | 05 | Mr G's Dance at Seven | clips/05-mr-gs-dance-at-seven | final (reference for look and quality) |
 | .. | (8 more tracks to add) | | |
 
@@ -36,7 +36,9 @@ Context for every clip session in this project. Keep it short and current.
   `partners` is a placeholder (each man lone once: m3 in B-C, m1 in D-E, m2 in F-G) until the choreography is set.
   Heads must not look bald from above (top camera moves): the toolkit's scalp cap handles it; check top shots.
   Choreography (agreed 2026-10-28; story from Yonatan's timeline, 2026-10-29): keyed modern-ballet poses and moves (not
-  mocap), placed on the 15/8 accents (counts 1, 3, 8, 12, 15); slow and lyrical throughout; duets hand-in-hand, no lifts.
+  mocap), placed on the 15/8 accents (counts 1, 3, 8, 12, 15); slow and lyrical throughout; no lifts. Partners do not touch (decided 2026-10-31: the procedural
+  engine can't make close contact believable): duets are mirrored or in unison at arm's length, circling each other,
+  ending in an almost-touch (hands stopping 10-20 cm apart).
   Story (edit here, then the timeline in choreography.json follows):
   Intro - the 3 men lie face down on the ground and wake to the sound of the drum (heads lift).
   A - from that sleepy position they rise with full torsos: all fours, child's pose, unrolling up to kneeling with the
@@ -47,8 +49,10 @@ Context for every clip session in this project. Keep it short and current.
   E - only m1, the one left alone, dances a solo in the single cool shaft; the couples walk out into the forest.
   F - all five are back; w2 leaves m3 and is drawn to m1 (m2-w1, m1-w2); m3 is the new lone wolf.
   G - m3 comes round behind and replaces m2 with w1 (m3-w1, m1-w2); m2 is the lone wolf now.
-  Holds (hand in hand): D take hands, she turns under his arm, then both hands; the couples walk out (E) and back in
-      (F) hand in hand; w2 lets go of m3; turns under the arm in F and G; each new pairing takes hands in H.
-  H - all dance in a ring and swap partners: the women move round the ring from man to man each bar
-      (m1-w2, m3-w1 / m3-w2, m2-w1 / m2-w2, m1-w1), then the bow as the light fades.
+  Partner work: in D each couple mirrors face to face, circles round their shared centre and ends in an almost-touch;
+      the couples walk out side by side (E) and back in (F); w2 turns away from m3 and walks to m1; in G m3 crosses
+      along the front and faces off with m2 (rival), m2 withdraws upstage.
+  H - all dance and swap partners: the men stand on a wide triangle, the women circle inside it, a third of a circle
+      apart, from man to man (m1-w2, m3-w1 / m3-w2, m2-w1 / m2-w2, m1-w1), then all turn in unison and bow as the
+      light fades.
 - The intro fades in from darkness; the ending settles into a still bow while the light fades.
