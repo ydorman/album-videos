@@ -25,7 +25,7 @@
     "noisiness->haze": 0.41,
     "bar->position": {
       "bars_per_position": 1,
-      "transition": 0.69
+      "transition": 0.83
     },
     "bar->step": {
       "size_m": 0.18,
@@ -44,9 +44,9 @@
       "sash_tint": 0.6
     },
     "downbeat->dip": 0.28,
-    "sync_looseness_s": 0.125,
+    "sync_looseness_s": 0.005,
     "downbeat_shift": 0,
-    "visual_offset_ms": 0,
+    "visual_offset_ms": -10,
     "colors": {
       "m1": {
         "cloth": "#927a5d"
