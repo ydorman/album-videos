@@ -5,7 +5,7 @@ Context for every clip session in this project. Keep it short and current.
 ## Tracks
 | # | Title | Clip folder | Status |
 |---|---|---|---|
-| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases and physics done; partner work restaged without contact (2026-10-31); refinements next |
+| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases and physics done; partner work restaged without contact (2026-10-31); D-H cameras reframed for it (2026-11-16); next: Instagram snippet, renders |
 | 05 | Mr G's Dance at Seven | clips/05-mr-gs-dance-at-seven | final (reference for look and quality) |
 | .. | (8 more tracks to add) | | |
 
@@ -33,7 +33,7 @@ Context for every clip session in this project. Keep it short and current.
   too, not just the sash. Current colours are tuned by Yonatan in the preview and live in look.json "colors"
   (overriding actors.csv): women in the violet family (w1 lavender dress, purple sash #7e40c9; w2 pink-lilac dress,
   violet sash #8C5BA0), men in browns of different depth (never bright white). The pairing in choreography.json
-  `partners` is a placeholder (each man lone once: m3 in B-C, m1 in D-E, m2 in F-G) until the choreography is set.
+  `partners` follows the story (each man lone once: m3 in B-C, m1 in D-E, m2 in F-G; the swaps in H).
   Heads must not look bald from above (top camera moves): the toolkit's scalp cap handles it; check top shots.
   Choreography (agreed 2026-10-28; story from Yonatan's timeline, 2026-10-29): keyed modern-ballet poses and moves (not
   mocap), placed on the 15/8 accents (counts 1, 3, 8, 12, 15); slow and lyrical throughout; no lifts. Partners do not touch (decided 2026-10-31: the procedural
