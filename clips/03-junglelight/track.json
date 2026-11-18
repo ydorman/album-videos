@@ -51,7 +51,9 @@
       "bars": 4
     }
   ],
-  "snippets": [],
+  "snippets": [
+    { "name": "instagram", "start": 193.1333, "end": 246.0667, "note": "frames 5794-7382 at 30 fps (chosen by Yonatan)" }
+  ],
   "grid_override": {
     "beat_period": 0.5454545454545454,
     "beat_offset": 0.548,

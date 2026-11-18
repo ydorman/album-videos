@@ -22,13 +22,13 @@
       "bright": 38,
       "tint": 0.55
     },
-    "noisiness->haze": 0.41,
+    "noisiness->haze": 0.96,
     "bar->position": {
-      "bars_per_position": 1,
-      "transition": 0.94
+      "bars_per_position": 2,
+      "transition": 0.55
     },
     "bar->step": {
-      "size_m": 0.18,
+      "size_m": 0.12,
       "pattern": "left,right,back,front"
     },
     "stepping": {
@@ -44,11 +44,11 @@
     "robe": {
       "skirt_shape": 0.3,
       "sleeve_fullness": 0.36,
-      "skirt_swing": 1,
+      "skirt_swing": 0,
       "sash_tint": 0.6
     },
-    "downbeat->dip": 0.05,
-    "sync_looseness_s": 0.04,
+    "downbeat->dip": 0.04,
+    "sync_looseness_s": 0.06,
     "downbeat_shift": 0,
     "visual_offset_ms": -10,
     "colors": {

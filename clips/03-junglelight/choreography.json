@@ -210,28 +210,6 @@
     0.9,
     -1.3
    ]
-  },
-  "compact": {
-   "m1": [
-    -0.9,
-    0.3
-   ],
-   "m2": [
-    0,
-    0.75
-   ],
-   "m3": [
-    0.9,
-    0.3
-   ],
-   "w1": [
-    -0.5,
-    -0.9
-   ],
-   "w2": [
-    0.5,
-    -0.9
-   ]
   }
  },
  "_partners_doc": "Who is paired with whom from each 'at' (section name, 'C+2', or seconds). A man's sash blends to his partner's sash_color over 'blend' bars; a man in no pair (the lone one) fades back to neutral. Follows the story in PROJECT.md: m1 left alone in D-E, m3 in F, m2 in G, and in H the women move round the ring from man to man.",

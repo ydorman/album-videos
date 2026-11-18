@@ -5,7 +5,7 @@ Context for every clip session in this project. Keep it short and current.
 ## Tracks
 | # | Title | Clip folder | Status |
 |---|---|---|---|
-| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases and physics done; partner work restaged without contact (2026-10-31); D-H cameras reframed for it (2026-11-16); next: Instagram snippet, renders |
+| 03 | Junglelight | clips/03-junglelight | in progress: scene, light, cameras, costumes done; choreography: staging, phrases and physics done; partner work restaged without contact (2026-10-31); D-H cameras reframed for it (2026-11-16); Instagram snippet set to 193.1-246.1 s (2026-11-18); next: renders |
 | 05 | Mr G's Dance at Seven | clips/05-mr-gs-dance-at-seven | final (reference for look and quality) |
 | .. | (8 more tracks to add) | | |
 
