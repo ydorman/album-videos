@@ -25,7 +25,7 @@
     "noisiness->haze": 0.41,
     "bar->position": {
       "bars_per_position": 1,
-      "transition": 0.83
+      "transition": 0.94
     },
     "bar->step": {
       "size_m": 0.18,
@@ -47,8 +47,8 @@
       "skirt_swing": 1,
       "sash_tint": 0.6
     },
-    "downbeat->dip": 0.28,
-    "sync_looseness_s": 0.01,
+    "downbeat->dip": 0.05,
+    "sync_looseness_s": 0.04,
     "downbeat_shift": 0,
     "visual_offset_ms": -10,
     "colors": {
