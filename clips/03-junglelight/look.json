@@ -31,6 +31,10 @@
       "size_m": 0.18,
       "pattern": "left,right,back,front"
     },
+    "stepping": {
+      "smallest_step_m": 0.33,
+      "walking_width_m": 0.14
+    },
     "turn_during_position": 1,
     "start_end": {
       "fade_in_s": 4,
@@ -44,7 +48,7 @@
       "sash_tint": 0.6
     },
     "downbeat->dip": 0.28,
-    "sync_looseness_s": 0.005,
+    "sync_looseness_s": 0.01,
     "downbeat_shift": 0,
     "visual_offset_ms": -10,
     "colors": {
